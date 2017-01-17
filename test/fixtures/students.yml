@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  roll_number: 1
+  adhar_number: 1
+
+two:
+  roll_number: 1
+  adhar_number: 1
